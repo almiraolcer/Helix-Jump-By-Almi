@@ -8,7 +8,7 @@ public class Control : MonoBehaviour
 
     PlayerInput playerinput;
     Vector3 inputdirection;
-    [SerializeField] float _rotationSpeed = 80f;
+    private float _rotationSpeed = 80f;
 
     private void Awake() {
         
