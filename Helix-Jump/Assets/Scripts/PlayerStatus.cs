@@ -8,21 +8,21 @@ public class PlayerStatus : MonoBehaviour
 
     public GameObject RestartMenu;
     public GameObject FinishMenu;
-    private Rigidbody rb;
+    private Rigidbody _rb;
 
 
     private void Start() {
-        rb = GetComponent<Rigidbody>();
+        _rb = GetComponent<Rigidbody>();
     }
     private void OnCollisionEnter(Collision other) {
         if(other.gameObject.CompareTag("Trap")){
-            rb.isKinematic = true;
+            _rb.isKinematic = true;
             RestartMenu.SetActive(true);
 
         }
         else if(other.gameObject.CompareTag("FinishLine")){
             FinishMenu.SetActive(true);
-            rb.isKinematic = true;
+            _rb.isKinematic = true;
 
         }
 
@@ -39,6 +39,7 @@ public class PlayerStatus : MonoBehaviour
     public void Exit(){
         Application.Quit();
     }
+
 
     
    
