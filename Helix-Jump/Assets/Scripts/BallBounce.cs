@@ -13,17 +13,12 @@ public class BallBounce : MonoBehaviour
         rb= GetComponent<Rigidbody>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     void OnCollisionEnter(Collision other)
     {
         if(other.gameObject.CompareTag("Platform")){
             rb.velocity= new Vector3(0,bounceHeight,0);
-
+    
         }
     }
 

@@ -423,6 +423,7 @@ GameObject:
   - component: {fileID: 242526689}
   - component: {fileID: 242526690}
   - component: {fileID: 242526691}
+  - component: {fileID: 242526693}
   - component: {fileID: 242526692}
   m_Layer: 0
   m_Name: Ball
@@ -502,7 +503,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 242526682}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.02, y: 11.28, z: -1.837}
+  m_LocalPosition: {x: 0.02, y: 11.28, z: -1.3}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -687,6 +688,20 @@ TrailRenderer:
   m_Autodestruct: 0
   m_Emitting: 1
   m_ApplyActiveColorSpace: 1
+--- !u!114 &242526693
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 242526682}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e6f00681ba2cbe4882bd820ec08e69a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _PaintSplashPrefab: {fileID: 7107835093557538717, guid: ea26946f36a718c4c8bcb30dc39fa271,
+    type: 3}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
