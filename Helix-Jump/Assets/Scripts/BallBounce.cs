@@ -7,6 +7,10 @@ public class BallBounce : MonoBehaviour
 
     Rigidbody rb;
     private float bounceHeight = 5;
+
+    [SerializeField]  AudioSource jumpsource;
+    [SerializeField]  AudioClip  jumpclip;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +22,7 @@ public class BallBounce : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Platform")){
             rb.velocity= new Vector3(0,bounceHeight,0);
+            jumpsource.PlayOneShot(jumpclip);
     
         }
     }
