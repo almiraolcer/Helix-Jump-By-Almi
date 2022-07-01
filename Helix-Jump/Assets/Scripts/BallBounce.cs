@@ -20,7 +20,7 @@ public class BallBounce : MonoBehaviour
 
     void OnCollisionEnter(Collision other)
     {
-        if(other.gameObject.CompareTag("Platform")){
+        if(other.gameObject.CompareTag("Platform") || other.gameObject.CompareTag("TrickyPlatform") ){
             rb.velocity= new Vector3(0,bounceHeight,0);
             jumpsource.PlayOneShot(jumpclip);
     
