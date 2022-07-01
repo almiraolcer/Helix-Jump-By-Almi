@@ -7534,6 +7534,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   target: {fileID: 1662037256}
+  Tricksource: {fileID: 1904684904}
+  Trickclip: {fileID: 8300000, guid: 2c5292ba5cf254919a6b9e2b18e04f49, type: 3}
 --- !u!1 &1965461667
 GameObject:
   m_ObjectHideFlags: 0
