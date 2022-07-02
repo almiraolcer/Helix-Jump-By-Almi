@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 9052262009614798328}
   - component: {fileID: 8858086214023333693}
   m_Layer: 0
-  m_Name: Paint Splash 1
+  m_Name: Paint Splash 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 3cf3bcf120ad03b4a99aaade7008b867, type: 3}
-  m_Color: {r: 0.9764706, g: 0.9490196, b: 0.92941177, a: 1}
+  m_Color: {r: 0.9647059, g: 0.84705883, b: 0.3764706, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
