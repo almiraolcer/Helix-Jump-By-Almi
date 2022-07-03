@@ -4935,7 +4935,7 @@ GameObject:
   - component: {fileID: 3469287837843711089}
   - component: {fileID: 1711813854856548539}
   - component: {fileID: 1995672642}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Trap
   m_TagString: Trap
   m_Icon: {fileID: 0}

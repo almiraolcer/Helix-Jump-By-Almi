@@ -6,7 +6,7 @@ public class BallBounce : MonoBehaviour
 {
 
     Rigidbody rb;
-    private float bounceHeight = 5;
+    private float _bounceHeight = 5;
 
     [SerializeField]  AudioSource jumpsource;
     [SerializeField]  AudioClip  jumpclip;
@@ -17,11 +17,11 @@ public class BallBounce : MonoBehaviour
         rb= GetComponent<Rigidbody>();
     }
 
-
-    void OnCollisionEnter(Collision other)
+    
+    public void OnCollisionEnter(Collision other)
     {
-        if(other.gameObject.CompareTag("Platform") || other.gameObject.CompareTag("TrickyPlatform") ){
-            rb.velocity= new Vector3(0,bounceHeight,0);
+        if(other.gameObject.CompareTag("Platform") || other.gameObject.CompareTag("TrickyPlatform")){
+            rb.velocity= new Vector3(0,_bounceHeight,0);
             jumpsource.PlayOneShot(jumpclip);
     
         }
