@@ -6,9 +6,6 @@ using DG.Tweening;
 public class MovingPlat : MonoBehaviour
 {
 
-    [SerializeField]  AudioSource Movesource;
-    [SerializeField]  AudioClip  Moveclip;
-
     private void Start()
     {
         StartCoroutine(RotateCube());
