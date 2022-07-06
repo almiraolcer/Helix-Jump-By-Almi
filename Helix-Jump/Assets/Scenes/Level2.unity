@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 9130819}
   - component: {fileID: 9130818}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 6.6
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -234,7 +234,7 @@ GameObject:
   - component: {fileID: 29657740}
   - component: {fileID: 29657739}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 1.1
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -332,7 +332,7 @@ GameObject:
   - component: {fileID: 47102563}
   - component: {fileID: 47102562}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 3.2
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -754,7 +754,7 @@ GameObject:
   - component: {fileID: 216796090}
   - component: {fileID: 216796089}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 1.6
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -852,7 +852,7 @@ GameObject:
   - component: {fileID: 245387324}
   - component: {fileID: 245387323}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 6.3
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -950,7 +950,7 @@ GameObject:
   - component: {fileID: 297116566}
   - component: {fileID: 297116565}
   m_Layer: 0
-  m_Name: TrickyPlatform
+  m_Name: TrickyPlatform 1.1
   m_TagString: TrickyPlatform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1048,7 +1048,7 @@ GameObject:
   - component: {fileID: 321403685}
   - component: {fileID: 321403684}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 2.2
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1146,7 +1146,7 @@ GameObject:
   - component: {fileID: 333192747}
   - component: {fileID: 333192746}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 1.2
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1474,7 +1474,7 @@ GameObject:
   - component: {fileID: 422275832}
   - component: {fileID: 422275831}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.1
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1746,7 +1746,7 @@ GameObject:
   - component: {fileID: 540549546}
   - component: {fileID: 540549545}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 6.5
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1844,7 +1844,7 @@ GameObject:
   - component: {fileID: 550630266}
   - component: {fileID: 550630265}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.5
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1942,7 +1942,7 @@ GameObject:
   - component: {fileID: 574181421}
   - component: {fileID: 574181420}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 5.3
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2040,7 +2040,7 @@ GameObject:
   - component: {fileID: 577185839}
   - component: {fileID: 577185838}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 6.2
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2138,7 +2138,7 @@ GameObject:
   - component: {fileID: 585957142}
   - component: {fileID: 585957141}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 5.4
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2236,7 +2236,7 @@ GameObject:
   - component: {fileID: 645916371}
   - component: {fileID: 645916370}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 1.4
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2469,7 +2469,7 @@ GameObject:
   - component: {fileID: 703663914}
   - component: {fileID: 703663913}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 1.5
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2567,7 +2567,7 @@ GameObject:
   - component: {fileID: 733859676}
   - component: {fileID: 733859675}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 2.2
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2741,7 +2741,7 @@ GameObject:
   - component: {fileID: 783967757}
   - component: {fileID: 783967756}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 3.3
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2839,7 +2839,7 @@ GameObject:
   - component: {fileID: 801570916}
   - component: {fileID: 801570915}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 6.4
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2937,7 +2937,7 @@ GameObject:
   - component: {fileID: 807149240}
   - component: {fileID: 807149239}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 1.3
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3075,7 +3075,7 @@ GameObject:
   - component: {fileID: 859940521}
   - component: {fileID: 859940520}
   m_Layer: 0
-  m_Name: TrickyPlatform
+  m_Name: TrickyPlatform 6.1
   m_TagString: TrickyPlatform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3173,7 +3173,7 @@ GameObject:
   - component: {fileID: 893335008}
   - component: {fileID: 893335007}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 5.3
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3540,7 +3540,7 @@ GameObject:
   - component: {fileID: 942982376}
   - component: {fileID: 942982375}
   m_Layer: 0
-  m_Name: 'Invisible '
+  m_Name: Invisible 2.4
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3638,7 +3638,7 @@ GameObject:
   - component: {fileID: 954336082}
   - component: {fileID: 954336081}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 3.2
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3736,7 +3736,7 @@ GameObject:
   - component: {fileID: 961836611}
   - component: {fileID: 961836610}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 5.1
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3949,7 +3949,7 @@ GameObject:
   - component: {fileID: 1099356979}
   - component: {fileID: 1099356978}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 2.1
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4087,7 +4087,7 @@ GameObject:
   - component: {fileID: 1211692635}
   - component: {fileID: 1211692634}
   m_Layer: 0
-  m_Name: TrickyPlatform
+  m_Name: TrickyPlatform 4.1
   m_TagString: TrickyPlatform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4360,7 +4360,7 @@ GameObject:
   - component: {fileID: 1270606551}
   - component: {fileID: 1270606550}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.4
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4592,7 +4592,7 @@ GameObject:
   - component: {fileID: 1302923962}
   - component: {fileID: 1302923961}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.3
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4690,7 +4690,7 @@ GameObject:
   - component: {fileID: 1307073847}
   - component: {fileID: 1307073846}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 2.1
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4788,7 +4788,7 @@ GameObject:
   - component: {fileID: 1314460314}
   - component: {fileID: 1314460313}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 4.1
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4886,7 +4886,7 @@ GameObject:
   - component: {fileID: 1367749411}
   - component: {fileID: 1367749410}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 3.4
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4984,7 +4984,7 @@ GameObject:
   - component: {fileID: 1424688129}
   - component: {fileID: 1424688128}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 6.1
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5187,7 +5187,7 @@ GameObject:
   - component: {fileID: 1503595318}
   - component: {fileID: 1503595317}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 6.1
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5285,7 +5285,7 @@ GameObject:
   - component: {fileID: 1518680033}
   - component: {fileID: 1518680032}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 1.1
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5423,7 +5423,7 @@ GameObject:
   - component: {fileID: 1571204256}
   - component: {fileID: 1571204255}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 3.1
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5597,7 +5597,7 @@ GameObject:
   - component: {fileID: 1617251431}
   - component: {fileID: 1617251430}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 5.2
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5968,7 +5968,7 @@ GameObject:
   - component: {fileID: 1742601830}
   - component: {fileID: 1742601829}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.2
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6066,7 +6066,7 @@ GameObject:
   - component: {fileID: 1750972734}
   - component: {fileID: 1750972733}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.7
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6299,7 +6299,7 @@ GameObject:
   - component: {fileID: 1770796803}
   - component: {fileID: 1770796802}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 1.2
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6397,7 +6397,7 @@ GameObject:
   - component: {fileID: 1792149480}
   - component: {fileID: 1792149479}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 6.1
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6495,7 +6495,7 @@ GameObject:
   - component: {fileID: 1793507152}
   - component: {fileID: 1793507151}
   m_Layer: 0
-  m_Name: TrickyPlatform
+  m_Name: TrickyPlatform 3.1
   m_TagString: TrickyPlatform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6739,7 +6739,7 @@ GameObject:
   - component: {fileID: 1832549964}
   - component: {fileID: 1832549963}
   m_Layer: 0
-  m_Name: 'Invisible '
+  m_Name: Invisible 2.5
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6983,7 +6983,7 @@ GameObject:
   - component: {fileID: 1852053616}
   - component: {fileID: 1852053615}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 5.1
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7081,7 +7081,7 @@ GameObject:
   - component: {fileID: 1853348221}
   - component: {fileID: 1853348220}
   m_Layer: 0
-  m_Name: 'Invisible '
+  m_Name: Invisible 2.1
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7605,7 +7605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e6f00681ba2cbe4882bd820ec08e69a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _PaintSplashPrefab: {fileID: 7107835093557538717, guid: e3ecabd7cfc2dd642b575b7b1512ca47,
+  _PaintSplashPrefab: {fileID: 7107835093557538717, guid: fd10b8b0b9a93d64a95101e829789d2c,
     type: 3}
 --- !u!82 &1904684904
 AudioSource:
@@ -7731,7 +7731,7 @@ GameObject:
   - component: {fileID: 1965461670}
   - component: {fileID: 1965461669}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 3.1
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7829,7 +7829,7 @@ GameObject:
   - component: {fileID: 1970676768}
   - component: {fileID: 1970676767}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 3.2
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7927,7 +7927,7 @@ GameObject:
   - component: {fileID: 1986814443}
   - component: {fileID: 1986814442}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 5.1
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8064,7 +8064,7 @@ GameObject:
   - component: {fileID: 2044571663}
   - component: {fileID: 2044571662}
   m_Layer: 0
-  m_Name: 'Invisible '
+  m_Name: Invisible 2.3
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8162,7 +8162,7 @@ GameObject:
   - component: {fileID: 2061285991}
   - component: {fileID: 2061285990}
   m_Layer: 0
-  m_Name: Invisible
+  m_Name: Invisible 3.1
   m_TagString: Invisible
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8260,7 +8260,7 @@ GameObject:
   - component: {fileID: 2076157308}
   - component: {fileID: 2076157307}
   m_Layer: 0
-  m_Name: Platform
+  m_Name: Platform 4.6
   m_TagString: Platform
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8358,7 +8358,7 @@ GameObject:
   - component: {fileID: 2091040392}
   - component: {fileID: 2091040391}
   m_Layer: 0
-  m_Name: Trap
+  m_Name: Trap 5.2
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
