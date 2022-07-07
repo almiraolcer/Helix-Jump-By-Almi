@@ -6,29 +6,27 @@ using DG.Tweening;
 public class MovingPlat : MonoBehaviour
 {
 
-
+    private Vector3 _temp;
     private void Start()
     {
-        StartCoroutine(RotateCube());
+       Vector3 _temp = transform.rotation.eulerAngles;
+        StartCoroutine(RotateCube(_temp));
     }
  
-    public IEnumerator RotateCube()
+  
+    public IEnumerator RotateCube(Vector3 _temp)
     {
-        
         while(true){
+            Debug.Log(_temp);
+       transform.DOLocalRotate(
+            _temp + new Vector3(0, 90, 0) , 3f);
         yield return new WaitForSeconds(1);
-        transform.DORotate(
-            transform.localRotation.eulerAngles + new Vector3(0,40, 0), 1);
-         yield return new WaitForSeconds(1);
-        transform.DORotate(
-            transform.localRotation.eulerAngles - new Vector3(0,40, 0), 1);
-            
-    }
-    }
-
-
+        transform.DOLocalRotate(
+            _temp - new Vector3(0, 90, 0) , 3f);
+        yield return new WaitForSeconds(1);
+         }
     
-        
+    }  
     }
     
     
