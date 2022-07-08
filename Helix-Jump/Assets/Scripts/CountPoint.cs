@@ -9,15 +9,15 @@ public class CountPoint : MonoBehaviour
 {
 
     [SerializeField] TextMeshProUGUI _PointsText;
-    private int points=0;
+    private int _points=0;
 
-    [SerializeField]  AudioSource _Ringsource;
-    [SerializeField]  AudioClip  _Ringclip;
+    [SerializeField] private AudioSource _Ringsource;
+    [SerializeField] private AudioClip  _Ringclip;
 
     private void OnTriggerEnter(Collider other) {
         if(other.gameObject.CompareTag("Invisible")){
-            points+=5;
-            _PointsText.text = "" + points;
+            _points+=5;
+            _PointsText.text = "" + _points;
             _Ringsource.PlayOneShot(_Ringclip);
 
         }

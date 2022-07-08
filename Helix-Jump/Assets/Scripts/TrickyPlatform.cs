@@ -8,8 +8,8 @@ public class TrickyPlatform : MonoBehaviour
     private float _duration=3f;
     public Transform target;
 
-    [SerializeField]  AudioSource Tricksource;
-    [SerializeField]  AudioClip  Trickclip;
+    [SerializeField] private AudioSource _Tricksource;
+    [SerializeField] private AudioClip  _Trickclip;
 
 
     void OnCollisionEnter(Collision other)
@@ -17,7 +17,7 @@ public class TrickyPlatform : MonoBehaviour
         if(other.gameObject.CompareTag("TrickyPlatform")){
             GameObject otherObj = other.gameObject; 
             otherObj.transform.DOMoveY(target.position.y,_duration);
-            Tricksource.PlayOneShot(Trickclip);
+            _Tricksource.PlayOneShot(_Trickclip);
         }
     }
 }

@@ -10,11 +10,11 @@ public class PlayerStatus : MonoBehaviour
     public GameObject FinishMenu;
     private Rigidbody _rb;
 
-    [SerializeField]  AudioSource _Trapsource;
-    [SerializeField]  AudioClip  _Trapclip;
+    [SerializeField] private AudioSource _Trapsource;
+    [SerializeField] private AudioClip  _Trapclip;
 
-    [SerializeField]  AudioSource _Winsource;
-    [SerializeField]  AudioClip  _Winclip;
+    [SerializeField] private AudioSource _Winsource;
+    [SerializeField] private AudioClip  _Winclip;
 
 
     private void Start() {
