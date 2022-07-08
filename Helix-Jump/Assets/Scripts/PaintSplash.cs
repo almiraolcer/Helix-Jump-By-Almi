@@ -5,7 +5,7 @@ using UnityEngine;
 public class PaintSplash : MonoBehaviour
 {
     [SerializeField] private GameObject _PaintSplashPrefab;
-
+    private float _destroyTime = 1.5f;
 
 
         void OnCollisionEnter(Collision other){
@@ -14,10 +14,10 @@ public class PaintSplash : MonoBehaviour
                     GameObject obj = Instantiate(_PaintSplashPrefab, hitInfo.point, _PaintSplashPrefab.transform.rotation);
                     obj.transform.SetParent(other.gameObject.transform);
                     obj.transform.position += obj.transform.TransformDirection(Vector3.back)/1000;
+                    Destroy(obj, _destroyTime);
                 }
-
+                }
             }
-        }
         
     
 

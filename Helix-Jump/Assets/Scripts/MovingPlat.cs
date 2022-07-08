@@ -17,7 +17,6 @@ public class MovingPlat : MonoBehaviour
     public IEnumerator RotateCube(Vector3 _temp)
     {
         while(true){
-            Debug.Log(_temp);
        transform.DOLocalRotate(
             _temp + new Vector3(0, 90, 0) , 3f);
         yield return new WaitForSeconds(1);
