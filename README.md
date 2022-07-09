@@ -18,13 +18,13 @@ There are Moving Platforms as well as Safe and Trap platforms.  You can use movi
 The game has UI screen that shows the total point, Next Level, Retry and Exit buttons.
 
 # Game play Screen shots
-![3](https://user-images.githubusercontent.com/83727549/178103164-cd571cfe-4b3e-45c4-bce0-fef611055cd3.jpg)
-![7](https://user-images.githubusercontent.com/83727549/178103165-8883107a-0494-41eb-bb72-407f45064cb3.jpg)
-![1](https://user-images.githubusercontent.com/83727549/178103166-18693e84-23d4-4ad1-ae19-b97b5ddea296.jpg)
+
+
+
+<img src="https://user-images.githubusercontent.com/83727549/178103166-18693e84-23d4-4ad1-ae19-b97b5ddea296.jpg" width="30%" height="30%"><img src="https://user-images.githubusercontent.com/83727549/178103165-8883107a-0494-41eb-bb72-407f45064cb3.jpg" width="30%" height="30%"><img src="https://user-images.githubusercontent.com/83727549/178103164-cd571cfe-4b3e-45c4-bce0-fef611055cd3.jpg" width="30%" height="30%">
 
 # Game UI Screen shots
-![2](https://user-images.githubusercontent.com/83727549/178103170-a1e9bf09-30a7-42fe-b915-2486b79ed590.jpg)
-![6](https://user-images.githubusercontent.com/83727549/178103172-a8d657bd-c0a1-40b2-87c4-dc2c75715e3e.jpg)
+<img src="https://user-images.githubusercontent.com/83727549/178103170-a1e9bf09-30a7-42fe-b915-2486b79ed590.jpg" width="30%" height="30%"> <img src="https://user-images.githubusercontent.com/83727549/178103172-a8d657bd-c0a1-40b2-87c4-dc2c75715e3e.jpg" width="30%" height="30%">
 
 
 ## I use several concepts in my game Project to make them more efficient and get a better understanding of how they work.
@@ -35,7 +35,7 @@ I created the project as The Universal Render Pipeline (URP)
 
 The movement of Cylinder is controlled with the new input system. Keyboard arrows are used to move the Cylinder.
 ## DoTween:
-![d28cf7c5-1e07-4494-81e3-bc3ca7539da6](https://user-images.githubusercontent.com/83727549/178103176-e22bb07d-061a-4788-a44b-062d1a29f9d7.jpg)
+<img src="https://user-images.githubusercontent.com/83727549/178103176-e22bb07d-061a-4788-a44b-062d1a29f9d7.jpg" width="40%" height="60%">
 
 I used DoTween engine and its features in Level 2 and Level 3. In Level 2 for Tricky Platforms I used DOMove. And for Level 3 , for the Moving Platforms I used DORotate.
 
